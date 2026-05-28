@@ -42,13 +42,11 @@
 
 # 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dchokshi28&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 # 🏆 LeetCode Profile
 
 <p align="center">
