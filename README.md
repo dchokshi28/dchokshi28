@@ -42,12 +42,13 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dchokshi28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dchokshi28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dchokshi28&theme=tokyonight&hide_border=true" />
+</p>
 # 🏆 LeetCode Profile
 
 <p align="center">
